@@ -1,6 +1,9 @@
 # java-currency-exchange-api-service
 
-Minimal Java REST API for currency exchange (SEK, EUR, USD).  
+<img width="1912" height="1242" alt="Screenshot 2026-02-15 at 20 11 49" src="https://github.com/user-attachments/assets/f5ab42f7-1f67-47f4-8f7f-3d41d3767224" />
+
+
+Java REST API for currency exchange (SEK, EUR, USD).  
 Rates are fetched from Riksbank and stored in an H2 database.  
 The exchange endpoint always uses the latest stored rate.
 
